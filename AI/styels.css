@@ -1,9 +1,0 @@
-body {
-  margin: 0;
-  overflow: hidden; /* Ensures no scrollbars appear */
-  background: #0d1117; /* Dark background for contrast */
-}
-
-canvas {
-  display: block; /* Ensures the canvas takes up full space */
-}
